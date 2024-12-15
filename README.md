@@ -8,6 +8,37 @@
 - 클린 코드와 테스트 작성을 중요하게 생각합니다
 - 코드 리뷰를 통해 성장하는 것을 중요하게 생각합니다
 
+## 연락처
+- 이메일: kgmmsw101@gmail.com, info@gyeongminiya.asia
+- GitHub: [GyeongMin2](https://github.com/GyeongMin2)
+
+
+## 기술적 성과
+- **홈서버 구축 및 배포**
+  - SSL 인증서를 Let's Encrypt를 통해 설정하여 웹 애플리케이션의 보안을 강화
+  - 포트포워딩 설정을 통해 웹 애플리케이션 배포
+- **Java와 Spring,SpringBoot를 통한 확장성 있는 웹 애플리케이션 구현**
+  - 모듈화된 구조, MVC 패턴적용
+- **Restful API 설계 및 구현**
+  - 웹 애플리케이션에서 필요한 데이터를 효과적으로 전달하고 처리하기 위한 API 설계 및 구현
+- **크론탭과 스케쥴러를 통한 리소스 모니터링**
+  - java와 크론탭을 통해 리소스 모니터링 및 로그 저장
+- **MSA 기반 회원 관리 시스템 구현**
+  - Node.js 서버 (api.gyeongminiya.asia:3443)
+    - 회원 인증/인가 전용 API 서버
+    - JWT 토큰기반 인증시스템
+    - 이메일 인증 서비스
+  - Spring Boot 서버 (www.gyeongminiya.asia:8080)
+    - 프론트엔드 렌더링
+    - 게시물,채팅 등 주요 비즈니스 로직 처리
+  - 서비스 연동
+    - Nginx 리버스 프록시를 통한 라우팅
+    - HTTP/3 프로토콜 지원으로 성능 최적화
+    - JWT 토큰 기반 서비스간 인증
+- **메일 서버 구축**
+  - Postfix와 Dovecot을 활용한 자체 메일 서버 구축으로 비용 절감 및 완전한 제어 가능
+
+
 ## 기술 스택
 - **Backend**: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33D?style=flat-square&logo=Spring_Boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
@@ -138,38 +169,9 @@
 
 ***
 
-## 기술적 성과
-- **홈서버 구축 및 배포**
-  - SSL 인증서를 Let's Encrypt를 통해 설정하여 웹 애플리케이션의 보안을 강화
-  - 포트포워딩 설정을 통해 웹 애플리케이션 배포
-- **Java와 Spring,SpringBoot를 통한 확장성 있는 웹 애플리케이션 구현**
-  - 모듈화된 구조, MVC 패턴적용
-- **Restful API 설계 및 구현**
-  - 웹 애플리케이션에서 필요한 데이터를 효과적으로 전달하고 처리하기 위한 API 설계 및 구현
-- **크론탭과 스케쥴러를 통한 리소스 모니터링**
-  - java와 크론탭을 통해 리소스 모니터링 및 로그 저장
-- **MSA 기반 회원 관리 시스템 구현**
-  - Node.js 서버 (api.gyeongminiya.asia:3443)
-    - 회원 인증/인가 전용 API 서버
-    - JWT 토큰기반 인증시스템
-    - 이메일 인증 서비스
-  - Spring Boot 서버 (www.gyeongminiya.asia:8080)
-    - 프론트엔드 렌더링
-    - 게시물,채팅 등 주요 비즈니스 로직 처리
-  - 서비스 연동
-    - Nginx 리버스 프록시를 통한 라우팅
-    - HTTP/3 프로토콜 지원으로 성능 최적화
-    - JWT 토큰 기반 서비스간 인증
-- **메일 서버 구축**
-  - Postfix와 Dovecot을 활용한 자체 메일 서버 구축으로 비용 절감 및 완전한 제어 가능
-
 ## 교육
 - 명지전문대학 | 소프트웨어 콘텐츠학과 (2024년 8월)
 - 천재교육 | java fullstack 개발자 과정 (2024년 7월 ~ 2025년 1월)
-
-## 연락처
-- 이메일: kgmmsw101@gmail.com, info@gyeongminiya.asia
-- GitHub: [GyeongMin2](https://github.com/GyeongMin2)
 
 ## 토이 프로젝트
 
