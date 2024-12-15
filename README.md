@@ -1,5 +1,5 @@
 # 백엔드 개발자 강경민
->포트폴리오 확인하기 [포트폴리오](https://github.com/GyeongMin2/MyPortfolio)
+>[포트폴리오](https://github.com/GyeongMin2/MyPortfolio)
 
 ## 연락처
 - 📧 kgmmsw101@gmail.com
