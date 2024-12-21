@@ -1,27 +1,21 @@
-# Backend Developer Kang GyeongMin
->[포트폴리오](https://github.com/GyeongMin2/MyPortfolio)
+# 백엔드 개발자 강경민
 
-## 연락처
-- 📧 kgmmsw101@gmail.com
-- 💻 [GitHub](https://github.com/GyeongMin2)
-
-## 주요 역량
-- MSA 기반 회원관리 시스템 설계/구현 경험
-- Spring Boot, Node.js 기반 백엔드 서버 개발
-- 자체 메일서버 구축 및 운영
-- Nginx 리버스 프록시 설정 및 HTTP/3 최적화
+[![Portfolio](https://img.shields.io/badge/Portfolio-GyeongMin2-181717?style=flat-square&logo=github)](https://github.com/GyeongMin2/MyPortfolio)
+📧 kgmmsw101@gmail.com
 
 ## 기술 스택
-- **Languages & Frameworks**: Java, Spring Boot, Node.js
-- **Database**: MySQL, MariaDB, JPA, MyBatis
-- **DevOps**: AWS RDS, Azure, Linux, Nginx
-- **Tools**: Git, WebSocket
+| **Category**               | **Main**                    | **Sub**                |
+|----------------------------|----------------------------|------------------------|
+| **Languages & Frameworks**| Java, Spring, Spring Boot | Node.js, Express      |
+| **Database**             | MySQL, MariaDB  | MongoDB |
+| **OS**                   | Linux, Windows, MacOS      |  |
+| **Tools**| IntelliJ, VSCode, Postman, Swagger, Git, WebSocket |
 
 ## 주요 프로젝트
 ### StudyShare (학습 공유 플랫폼)
 - MSA 아키텍처 적용 (Spring Boot + Node.js)
 - JWT 기반 인증/인가
-- 자체 SMTP 서버 구축
+- 자체 SMTP 서버 구축 경험
 
 **[프레젠테이션](https://github.com/GyeongMin2/MyPortfolio/blob/main/project/studyShare/studyShare_project.pdf)** | **[주요 소스코드 리뷰](https://github.com/GyeongMin2/MyPortfolio/blob/main/project/studyShare/studyShare_project.md)** | **[github](https://github.com/ChunjaeStudyShare/ChunjaeStudyShare)**
 
