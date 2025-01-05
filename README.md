@@ -19,4 +19,4 @@
 - 천재교육 Java Fullstack 과정 (2024.07 ~ 2025.01)
 
 ## Portfolio
-- ![포트폴리오](https://github.com/GyeongMin2/MyPortfolio)
+- [포트폴리오](https://github.com/GyeongMin2/MyPortfolio)
